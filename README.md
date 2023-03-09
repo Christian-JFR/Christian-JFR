@@ -27,7 +27,7 @@ My interest in this field stems from my desire to ensure that software is functi
 ## Languages
 
 - Spanish (Native)
-- English (Secondary)
+- English
 
 ## Interests
 
