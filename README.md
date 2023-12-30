@@ -1,39 +1,9 @@
 # Hello, I'm Christian Florez,
-## I'm a **QA Trainee** from Colombia.
+## I'm a Self-Taught Full Stack Web Developer.
 
-### As a self-taught QA Trainee, I have developed a strong passion for software testing and quality assurance.
+### As a self-taught full stack web developer, I've cultivated a deep passion for creating robust and efficient web applications.
 
-My interest in this field stems from my desire to ensure that software is functioning as intended and meeting user requirements. Additionally, I am also interested in Fullstack Development, and I have been exploring various tools and frameworks to expand my skill set.
-
-## Skills
-
-- Proficient in software testing and quality assurance
-- Familiar with various testing tools such as Selenium, JMeter, and Postman
-- Basic knowledge of programming languages such as Java, Python, and JavaScript
-- Familiarity with Agile methodologies
-- Ability to work in a team environment
-- Strong problem-solving and analytical skills
-- Creative thinking and ability to innovate
-
-## Experience
-
-### Self-taught QA Trainee
-
-- Developed and executed test plans for various software applications
-- Worked closely with developers to identify and resolve bugs
-- Collaborated with team members to ensure software met user requirements
-
-
-## Languages
-
-- Spanish (Native)
-- English
-
-## Interests
-
-- Fullstack Development
-- Learning new programming languages and tools
-- Reading about software testing and quality assurance
+Fueled by a passion for understanding the digital world, I embarked on a self-taught journey into full-stack web development. Countless hours later, I'm now adept at both front-end design with React and back-end functionality with Node.js. Crafting seamless user experiences and ensuring flawless functionality across the stack drives my dedication to continuous learning and best practices. Eager to tackle new challenges and push my boundaries, I'm excited to contribute my skills to impactful projects.
 
 <!--
 ### Hi there 👋
